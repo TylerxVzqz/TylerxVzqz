@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TylerxVzqz
-- 👀 I’m interested in Art, Music, Movies & Comics.
-- 🌱 I’m currently learning HTML/CSS and working towards learning JS next. I'm starting my fullstack bootcamp soon but I want to get an early start and try to teach myself for the time being.
+- 👋🏼 Hi, I’m Tyler & I'm from Long Island, New York.
+- 🧑🏻‍💻 I’m currently enrolled in Springboard's Software Engineering Bootcamp.
+- - 👀 I have an interest in Art, Music, Movies, Comics & Technology.
 - 😄 Pronouns: He/Him
 
 <!---
